@@ -99,4 +99,4 @@ client.on('message', async message => {
 })
 
 // Log in using the token file.
-client.login(require('./token.json'));
+client.login(require('ODA5MTA4MTU1MzM3OTMyODI5.YCQSsA.yrxGTTZwdysz9Q_08jU96WQWuy0'));

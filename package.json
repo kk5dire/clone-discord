@@ -6,9 +6,9 @@
   "dependencies": {
     "canvas": "^2.6.1",
     "discord.js": "^12.5.1",
+    "reddit.js": "^0.1.4",
     "snoowrap": "^1.22.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
